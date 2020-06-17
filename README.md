@@ -17,16 +17,19 @@ de idade, cuja origem é indígena dos povos Pima. Nela, estão inseridas 768
 instâncias (número de linhas) com 9 atributos cada, sendo que o último, informa se a
 pessoa possui a doença ou não.
 Todos os atributos são preenchidos com valor numérico e correspondem a: </p>
-* Número de vezes que a pessoa ficou grávida - preg ;
-* Concentração de glicose no plasma em um período de duas horas em
-um teste oral de tolerância à glicose - plas ;
-* Pressão arterial diastólica (mm Hg) - pres ;
-* Espessura da dobra da pele do tríceps (mm) - skin;
-* Insulina sérica de 2 horas (mu U / ml) - test;
-* Índice de massa corporal - mass;
-* Histórico de diabetes na família - pedi;
-* Idade - age;
-* Situação (0 - não possui a doença; 1 - possui a doença) - class;
+<ul>
+  
+</ul>
+<li>Número de vezes que a pessoa ficou grávida - preg </li>
+<li>Concentração de glicose no plasma em um período de duas horas em
+um teste oral de tolerância à glicose - plas </li>
+<li>Pressão arterial diastólica (mm Hg) - pres </li>
+<li>Espessura da dobra da pele do tríceps (mm) - skin</li>
+<li>Insulina sérica de 2 horas (mu U / ml) - test</li>
+<li>Índice de massa corporal - mass</li>
+<li>Histórico de diabetes na família - pedi</li>
+<li>Idade - age</li>
+<li>Situação (0 - não possui a doença; 1 - possui a doença) - class</li>
 
   <h2> 2.2. Algoritmos de classificação </h2>
 <p>Classificação é um método que aprende uma função, em termos
