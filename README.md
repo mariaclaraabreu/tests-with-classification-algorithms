@@ -74,6 +74,44 @@ dos dados. (NETO, 2014). </br>
 
 <b>Figura 2 -</b> Uso do algoritmo kNN</br>
 
+![02](https://user-images.githubusercontent.com/44175992/84959227-50e61500-b0d5-11ea-8340-a177c8482cfd.jpg)
+
+</br>
+
+<h2>2.2.3. Decision Tree</h2>
+<p> O algoritmo Decision Tree ou Árvore de Decisão é uma representação simples de um classificador utilizada por diversos sistemas de aprendizado de máquina. Uma árvore de decisão é induzida a partir de um conjunto de exemplos de treinamento onde as classes são previamente conhecidas.</p>
+<p>A estrutura da árvore é organizada de tal forma que:</p>
+a)	cada nó interno (não-folha) é rotulado com o nome de um dos atributos previsores;</b>
+b)	os ramos (ou arestas) saindo de um nó interno são rotulados com valores do atributo naquele nó;</bt>
+c)	cada folha é rotulada com uma classe, a qual é a classe prevista para exemplos que pertençam àquele nó folha. </br>
+
+<p>O processo de classificação de um exemplo ocorre fazendo aquele exemplo “caminhar” pela árvore, a partir do nó raiz, procurando percorrer os arcos que unem os nós, de acordo com as condições que estes mesmos arcos representam. Ao atingir um nó folha, a classe que rotula aquele nó folha é atribuída àquele exemplo (CARVALHO, 2005).</p>
+
+<b>Figura 3 -</b> Uso do algoritmo Decision Tree</br></br>
+
+![03](https://user-images.githubusercontent.com/44175992/84959336-7ffc8680-b0d5-11ea-8ffd-58253bc1d2d1.jpg)
+
+
+
+<h2>2.2.4. Naive Bayes</h2>
+<p>O algoritmo Naive Bayes é um classificador probabilístico simples que calcula um conjunto de probabilidades contando a frequência e as combinações de valores em um determinado conjunto de dados. O algoritmo usa o teorema de Bayes e assume que todos os atributos são independentes, dado o valor da variável de classe. Essa suposição de independência condicional raramente é verdadeira em aplicações do mundo real, daí a caracterização como ingênua, mas o algoritmo tende a ter um bom desempenho e aprender rapidamente em vários problemas de classificação supervisionada. Essa "ingenuidade" permite que o algoritmo construa facilmente classificações a partir de grandes conjuntos de dados sem recorrer a esquemas de estimativa de parâmetros iterativos complicados (DIMITOGLOU; ADAMS & JIM, 2012).</p>
+
+<b>Figura 4 -</b> Uso do algoritmo Naive Bayes</br></br>
+
+![04](https://user-images.githubusercontent.com/44175992/84959347-83900d80-b0d5-11ea-9158-3c6f7484dd95.jpg)
+</br>
+
+
+<h2>2.2.5.Perceptron</h2>
+<p>O Perceptron consiste em uma única camada de neurônios com pesos sinápticos e bias ajustáveis. Se os padrões de entrada forem linearmente separáveis, o algoritmo de treinamento do Perceptron possui convergência garantida, ou seja, é capaz de encontrar um conjunto de pesos que classifica corretamente os dados. Os pesos dos neurônios que compõem o Perceptron serão tais que as superfícies de decisão produzidas pela rede neural estarão apropriadamente posicionadas no espaço (CASTRO F. & CASTRO M., 2001).</p>
+
+
+<b>Figura 5 -</b> Uso do algoritmo Perceptron</br></br>
+
+![05](https://user-images.githubusercontent.com/44175992/84959357-88ed5800-b0d5-11ea-936a-6fea2a2ded27.jpg)
+
+
+
 
 
 
