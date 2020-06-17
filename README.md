@@ -1,5 +1,5 @@
 # Relatório de testes de Algoritmos de classificação na base de dados Pima Indians Diabetes
-**RELATÓRIO DE TESTES DE ALGORITMOS DE CLASSIFICAÇÃO NA BASE DE DADOS PIMA INDIANS DIABETES**
+
 
 # **1. Introdução**
 Algoritmos de classificação são utilizados para mapear elementos
