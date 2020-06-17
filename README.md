@@ -62,6 +62,22 @@ tem o objetivo de efetuar a criação de várias árvores de decisão usando um
 subconjunto de atributos selecionados aleatoriamente a partir do conjunto original,
 contendo todos os atributos e que estes possuem um tipo de amostragem chamado
 de bootstrap, a qual é do tipo com reposição, possibilitando assim melhor análise
-dos dados. (NETO, 2014).
+dos dados. (NETO, 2014). </br>
+
+<b>Figura 1 -</b> Uso do algoritmo Random Forest</br>
+
+![01](https://user-images.githubusercontent.com/44175992/84957612-f5feee80-b0d1-11ea-9387-df19c3e724ce.jpg)
+</br>
+
+<h2>2.2.2.kNN </h2>
+<p>O algoritmo k-Nearest Neighbor (kNN) é um algoritmo de aprendizado supervisionado do tipo lazy. A ideia geral desse algoritmo consiste em encontrar os  k exemplos rotulados mais próximos do exemplo não classificado e, com base no rótulo desses exemplos mais próximos, é tomada a decisão relativa à classe do exemplo não rotulado. Os algoritmos da família kNN requerem pouco esforço durante a etapa de treinamento. Em contrapartida, o custo computacional para rotular um novo exemplo é relativamente alto, pois, no pior dos casos, esse exemplo será comparado com todos os exemplos contidos no conjunto de treinamento (FERRERO, 2009). </p></br>
+
+<b>Figura 2 -</b> Uso do algoritmo kNN</br>
+
+
+
+
+
+
 
 
