@@ -111,6 +111,65 @@ c)	cada folha é rotulada com uma classe, a qual é a classe prevista para exemp
 ![05](https://user-images.githubusercontent.com/44175992/84959357-88ed5800-b0d5-11ea-936a-6fea2a2ded27.jpg)
 
 
+<h2>3. Resultados</h2>
+<p>Como resultado obtido, observa-se que o algoritmo knn obteve a maior acurácia, seguido pelo Random Forest.</p>
+
+<b>Quadro  1-</b> Acurácia de cada algoritmo</br></br>
+
+<table>
+  <tr>
+    <td>Algoritmo</td>
+    <td>Acurácia</td>
+  </tr>
+  <tr>
+    <td>Naive Bayes</td>
+    <td>0.65748031496063</td>
+  </tr>
+    <tr>
+    <td>kNN	</td>
+    <td>0.7401574803149606</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>Decision Tree	</td>
+    <td>0.6811023622047244</td>
+  </tr>
+  <tr>
+    <td>Perceptron	</td>
+    <td>0.6535433070866141</td>
+  </tr>
+  <tr>
+    <td>Random Forest	</td>
+    <td>0.7362204724409449</td>
+  </tr>
+  
+</table>
+
+</br>
+
+<h2>Referências</h2>
+<p>SILVA, J. <b>Algoritmos de classificação baseados em análise formal de
+  conceitos.</b> Master's thesis, Universidade Federal de Minas Gerais, 2007.</p>
+<p>SANTOS, F. L.<b> Mineração de opinião em textos opinativos utilizando
+  algoritmos de classificação </b>. 2013.</p>
+<p>CASTRO, F. C. C.; CASTRO, M. C. F. Redes neurais artificiais .
+DCA/FEEC/Unicamp, 2001.</p>
+<p>FERRERO, C. A. <b>Algoritmo kNN para previsão de dados temporais: funções de
+previsão e critérios de seleção de vizinhos próximos aplicados a variáveis
+  ambientais em limnologia</b> . 2009. Tese de Doutorado. Universidade de São Paulo.
+<p>CARVALHO, D. R. <b>Árvore de decisão/algoritmo genético para tratar o problema
+  de pequenos disjuntos em classificação de dados </b>. Universidade Federal do Rio
+de Janeiro, Rio de Janeiro, Brazil. Doctor Thesis. 162pp, 2005.</p>
+<p>DIMITOGLOU, G.; ADAMS, J. A.; JIM, C. M. <b>Comparison of the C4. 5 and a Naïve
+  Bayes classifier for the prediction of lung cancer survivability </b>. arXiv preprint
+arXiv:1206.1121, 2012.</p>
+<p>NETO, C. D. G. <b>Potencial de técnicas de mineração de dados para o
+  mapeamento de áreas cafeeiras </b>. INPE, São José dos Campos, 2014.</p>
+
+
+
+
+
 
 
 
