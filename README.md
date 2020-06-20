@@ -1,4 +1,4 @@
-# Relatório de testes de Algoritmos de classificação na base de dados Pima Indians Diabetes
+# Testes de Algoritmos de classificação na base de dados Pima Indians Diabetes
 
 
 <h2> 1. Introdução </h2>
